@@ -14,7 +14,9 @@ namespace Log4Net_Test
         {
             log.Info("Hello logging world!");
             log.Debug("Hello logging world!");
-            log.Debug("Hello logging world!");
+
+            // Test commit dev
+
             Console.WriteLine("Hit enter");
             Console.ReadLine();
         }
