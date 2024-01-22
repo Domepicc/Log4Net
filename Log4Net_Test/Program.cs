@@ -17,6 +17,8 @@ namespace Log4Net_Test
 
             // Test commit dev
 
+            // Test commit feature
+
             Console.WriteLine("Hit enter");
             Console.ReadLine();
         }
